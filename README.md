@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25/11/2026
+## Reference Number:26010711
+## Name:yogesh M
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,97 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+FarmDirect is a digital marketplace that directly connects farmers, Farmer Producer Organizations (FPOs), consumers, retailers, and bulk buyers without unnecessary intermediaries.
+- Farmers can register and upload their agricultural products with prices and available quantities.
+- Consumers can purchase fresh products directly from farmers at affordable prices.
+- Bulk buyers can place large orders directly with farmers.
+- The platform provides logistics and delivery support.
+- AI-based demand forecasting helps farmers predict future product demand.
+- Route optimization helps delivery partners select efficient transportation routes.
+- A transparent pricing system helps farmers receive better earnings.
+Innovation and Uniqueness:
+
+FarmDirect combines direct agricultural trading, AI-based demand prediction, logistics management, and transparent pricing in one platform.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies Used:
+Technology	Purpose
+HTML	Website structure
+CSS	Website design
+JavaScript	Frontend functionality
+Python	Backend development
+Flask	Web application framework
+MySQL	Database management
+AI/ML	Demand forecasting
+Google Maps API	Route optimization
+
+Implementation Methodology:
+1. Farmer and buyer registration.
+2. Farmers upload product details and prices.
+3. Buyers search and select agricultural products.
+4. Buyers place orders directly with farmers.
+5. AI predicts product demand using previous sales data.
+6. Route optimization identifies efficient delivery routes.
+7. Order tracking helps buyers monitor deliveries.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility:
+
+FarmDirect can be developed using affordable and easily available technologies such as HTML, CSS, JavaScript, Python, Flask, and MySQL.
+
+Potential Challenges:
+- Farmers may have limited digital knowledge.
+- Transportation and delivery delays.
+- Internet connectivity issues in rural areas.
+- Maintaining product quality during transportation.
+Solutions to Challenges:
+- Provide a simple and user-friendly interface.
+- Support regional languages.
+- Connect with local delivery partners.
+- Provide order tracking and delivery updates.
+- Design the platform to work efficiently on low-speed internet.
+Viability:
+
+The platform can generate revenue through small transaction fees, logistics partnerships, and premium services for bulk buyers.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Economic Benefits:
+- Increases farmers' income by reducing intermediaries.
+- Provides affordable prices to consumers.
+- Creates better market opportunities for small farmers.
+- Reduces unnecessary supply chain costs.
+Social Benefits:
+- Supports rural farmers and FPOs.
+- Encourages digital agriculture.
+- Connects rural communities with urban markets.
+- Creates employment opportunities in logistics.
+Environmental Benefits:
+- Reduces food wastage through demand forecasting.
+- Optimizes delivery routes to reduce fuel consumption.
+- Encourages efficient transportation and distribution.
+Overall Impact:
+
+FarmDirect creates a transparent and efficient agricultural marketplace that benefits farmers, consumers, and bulk buyers.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1.MyScheme – Government Schemes.
+
+
+
+2.AGMARKNET – Agricultural Marketing Information.
+
+
+
+3.e-NAM – National Agriculture Market.
+
+
+
+4.Digital India.
+
+
+
+5.Food and Agriculture Organization (FAO).
+
+
+
+6.Google Maps Platform Documentation.
