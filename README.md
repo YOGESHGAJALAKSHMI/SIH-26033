@@ -58,6 +58,8 @@ Implementation Methodology:
 5. AI predicts product demand using previous sales data.
 6. Route optimization identifies efficient delivery routes.
 7. Order tracking helps buyers monitor deliveries.
+ <img width="3212" height="2012" alt="FarmConnect_Aesthetic_Technical_Approach" src="https://github.com/user-attachments/assets/65220fb9-4eac-46f9-8a5f-c652957bf7dd" />
+  
 
 ## Feasibility and Viability
 Feasibility:
